@@ -19,6 +19,8 @@ Every file must respect a strict graphical charter, defined by the first release
 Each element must be drawn in its own layer, in order to give the user the opportunity to modify the penguin’s accessories and colors.<br>
 <b>TOOLS</b><br>
 Poggo releases its 2D vector creations through .SVG INKSCAPE, its 3D creations through BLENDER files.<br>
+<b>HOW TO USE</b><br>
+In Inkscape, the layers are surimposed. Just choose the ones you want to display.<br>
 <b>COMMUNITY</b><br>
 Every designer can submit a creation, Poggo will check that the requirements are respected.<br>
 For any question about graphic design, contact : mathilde@poggo.fr<br>
