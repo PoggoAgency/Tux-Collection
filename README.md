@@ -31,7 +31,6 @@ https://www.apache.org/licenses/LICENSE-2.0<br>
 <b>SPONSORING</b><br>
 Our main sponsor is IOT.BZH, a Brittany-based start-up (France) which develops Linux softwares dedicated to AGL project.<br>
 https://iot.bzh/en/<br>
-Contact : jeanluc.leverge@iot.bzh<br>
 Anybody can become a new sponsor. Depending on the contribution, the sponsor gets an "on-demand credit". Then, the whole community benefits from Poggo's creations.<br>
 Contact : sylvain@poggo.fr<br>
 <b>LICENSE</b><br>
