@@ -29,10 +29,9 @@ For any question about graphic design, contact : mathilde@poggo.fr<br>
 Please check Apache 2.0 license for all the requirements.<br>
 https://www.apache.org/licenses/LICENSE-2.0<br>
 <b>SPONSORING</b><br>
-Our main sponsor is IOT.BZH, a Brittany-based start-up (France) which develops Linux softwares dedicated to AGL project.<br>
+Our main sponsor is IOT.BZH, a Brittany-based start-up (France) which develops open-source Linux softwares dedicated to AGL project.<br>
 https://iot.bzh/en/<br>
 Anybody can become a new sponsor. Depending on the contribution, the sponsor gets an "on-demand credit". Then, the whole community benefits from Poggo's creations.<br>
-Contact : sylvain@poggo.fr<br>
 <b>LICENSE</b><br>
 Poggo uses Apache 2.0 license<br>
 https://www.apache.org/licenses/LICENSE-2.0
