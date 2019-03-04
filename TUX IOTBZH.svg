@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
-   xmlns:ns="&amp;ns_ai;"
+   xmlns:ns="&amp;#38;ns_ai;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -14,12 +14,13 @@
    version="1.1"
    x="0px"
    y="0px"
-   viewBox="0 0 1303.28 1196.11"
-   style="enable-background:new 0 0 1303.28 1196.11;"
+   viewBox="0 0 989.40995 949.2306"
    xml:space="preserve"
    id="svg13639"
-   sodipodi:docname="TUX IOT.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   sodipodi:docname="TUX IOTBZH.svg"
+   inkscape:version="0.92.4 (unknown)"
+   width="989.40997"
+   height="949.23059"><metadata
    id="metadata13645"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -531,16 +532,20 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1001"
+   inkscape:window-height="1002"
    id="namedview13641"
    showgrid="false"
-   inkscape:zoom="2.9"
-   inkscape:cx="666.41959"
-   inkscape:cy="743.07417"
-   inkscape:window-x="-9"
-   inkscape:window-y="-9"
+   inkscape:zoom="0.51265242"
+   inkscape:cx="184.45285"
+   inkscape:cy="485.25971"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer3" />
+   inkscape:current-layer="layer3"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
 <style
    type="text/css"
    id="style10896">
@@ -9607,8 +9612,8 @@ JwrpSQ9K5XWskR0jgifSTiVy3alz7I+uRl3yljbA2qm7H88RwIeb9zf/vHmWy4x/aEN467n8VC/j
 <g
    inkscape:groupmode="layer"
    id="layer1"
-   inkscape:label="Tux"><g
-     style="enable-background:new 0 0 1303.27999999999997272 1196.10999999999989996"
+   inkscape:label="Tux"
+   transform="translate(-160.85,-97.769389)"><g
      id="g16866"><g
        id="TRONC">
 			<path
@@ -10615,7 +10620,8 @@ JwrpSQ9K5XWskR0jgifSTiVy3alz7I+uRl3yljbA2qm7H88RwIeb9zf/vHmWy4x/aEN467n8VC/j
 		</g></g></g><g
    inkscape:groupmode="layer"
    id="layer2"
-   inkscape:label="Tshirt"><g
+   inkscape:label="Tshirt"
+   transform="translate(-160.85,-97.769389)"><g
      id="POLO"
      transform="translate(1210)">
 			<g
@@ -13060,7 +13066,8 @@ JwrpSQ9K5XWskR0jgifSTiVy3alz7I+uRl3yljbA2qm7H88RwIeb9zf/vHmWy4x/aEN467n8VC/j
 		</g></g><g
    inkscape:groupmode="layer"
    id="layer4"
-   inkscape:label="Shoes"><g
+   inkscape:label="Shoes"
+   transform="translate(-160.85,-97.769389)"><g
      id="Calque_19"
      transform="translate(-1036.9)">
 			<g
@@ -13118,7 +13125,7 @@ JwrpSQ9K5XWskR0jgifSTiVy3alz7I+uRl3yljbA2qm7H88RwIeb9zf/vHmWy4x/aEN467n8VC/j
    id="g13042">
 							<polygon
    class="st216"
-   points="1610.64,886.61 1611.06,885.25 1601.3,936.97 1600.88,938.33 "
+   points="1601.3,936.97 1600.88,938.33 1610.64,886.61 1611.06,885.25 "
    id="polygon13040"
    style="fill:#878787" />
 						</g>
@@ -13975,7 +13982,7 @@ JwrpSQ9K5XWskR0jgifSTiVy3alz7I+uRl3yljbA2qm7H88RwIeb9zf/vHmWy4x/aEN467n8VC/j
    id="g13346">
 							<polygon
    class="st216"
-   points="2005.37,886.56 2005.79,885.2 1996.03,936.97 1995.61,938.33 "
+   points="1996.03,936.97 1995.61,938.33 2005.37,886.56 2005.79,885.2 "
    id="polygon13344"
    style="fill:#878787" />
 						</g>
@@ -14782,7 +14789,8 @@ JwrpSQ9K5XWskR0jgifSTiVy3alz7I+uRl3yljbA2qm7H88RwIeb9zf/vHmWy4x/aEN467n8VC/j
 		</g></g><g
    inkscape:groupmode="layer"
    id="layer3"
-   inkscape:label="Headphone"><g
+   inkscape:label="Headphone"
+   transform="translate(-160.85,-97.769389)"><g
      id="Calque_17"
      transform="translate(-1044.06,1.6)">
 			<g
