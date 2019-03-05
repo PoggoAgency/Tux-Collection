@@ -13,15 +13,16 @@
    version="1.1"
    x="0px"
    y="0px"
-   viewBox="0 0 1303.28 1196.11"
-   style="enable-background:new 0 0 1303.28 1196.11;"
+   viewBox="0 0 872.13792 929.52064"
    xml:space="preserve"
    id="svg5585"
    sodipodi:docname="TUX ORIGINAL.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   inkscape:version="0.92.4 (unknown)"
+   width="872.13794"
+   height="929.52063"><metadata
    id="metadata5591"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs5589">
 	
 	
@@ -536,18 +537,22 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-height="1002"
    id="namedview5587"
    showgrid="false"
    inkscape:zoom="0.59714111"
-   inkscape:cx="871.24207"
-   inkscape:cy="598.05499"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
+   inkscape:cx="383.47536"
+   inkscape:cy="429.235"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer4"
+   inkscape:current-layer="layer1"
    showguides="true"
-   inkscape:guide-bbox="true" />
+   inkscape:guide-bbox="true"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
 <style
    type="text/css"
    id="style4900">
@@ -625,7 +630,8 @@
    inkscape:groupmode="layer"
    id="layer1"
    inkscape:label="Body"
-   style="display:inline"><g
+   style="display:inline"
+   transform="translate(-218.98602,-97.769389)"><g
      id="g6532"><g
        id="TRONC">
 			<path
@@ -1500,7 +1506,8 @@
    inkscape:groupmode="layer"
    id="layer2"
    inkscape:label="Left Arms"
-   style="display:inline"><g
+   style="display:inline"
+   transform="translate(-218.98602,-97.769389)"><g
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="Left Arm 5"
@@ -1899,7 +1906,8 @@
    inkscape:groupmode="layer"
    id="layer3"
    inkscape:label="Right Arms"
-   style="display:inline"><g
+   style="display:inline"
+   transform="translate(-218.98602,-97.769389)"><g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Right Arm 5"

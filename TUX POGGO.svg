@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
-   xmlns:ns="&amp;#38;ns_ai;"
+   xmlns:ns="&amp;#38;#38;ns_ai;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -14,15 +14,16 @@
    version="1.1"
    x="0px"
    y="0px"
-   viewBox="0 0 1303.28 1196.11"
-   style="enable-background:new 0 0 1303.28 1196.11;"
+   viewBox="0 0 989.40995 949.2306"
    xml:space="preserve"
    id="svg16282"
    sodipodi:docname="TUX POGGO.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   inkscape:version="0.92.4 (unknown)"
+   width="989.40997"
+   height="949.23059"><metadata
    id="metadata16288"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs16286">
 	
 	
@@ -530,16 +531,20 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1001"
+   inkscape:window-height="1002"
    id="namedview16284"
    showgrid="false"
    inkscape:zoom="0.67552316"
-   inkscape:cx="651.64001"
-   inkscape:cy="598.05499"
-   inkscape:window-x="-9"
-   inkscape:window-y="-9"
+   inkscape:cx="253.19638"
+   inkscape:cy="448.945"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer6" />
+   inkscape:current-layer="layer8"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
 <style
    type="text/css"
    id="style15089">
@@ -6441,8 +6446,8 @@ Q87gyAi9Y+g+fOIcHB06dvzo6JBz7NDRk/QbfCUT7++/6obtff8f/6Ff8g==
    inkscape:groupmode="layer"
    id="layer6"
    inkscape:label="Tux"
-   style="display:inline"><g
-     style="enable-background:new 0 0 1303.27999999999997272 1196.10999999999989996"
+   style="display:inline"
+   transform="translate(-160.85,-97.769389)"><g
      id="g24395"><g
        id="TRONC">
 			<path
@@ -7450,7 +7455,8 @@ Q87gyAi9Y+g+fOIcHB06dvzo6JBz7NDRk/QbfCUT7++/6obtff8f/6Ff8g==
    inkscape:groupmode="layer"
    id="layer7"
    inkscape:label="Shoes"
-   style="display:inline"><g
+   style="display:inline"
+   transform="translate(-160.85,-97.769389)"><g
      id="Calque_19"
      transform="translate(-1024)">
 			<g
@@ -7508,7 +7514,7 @@ Q87gyAi9Y+g+fOIcHB06dvzo6JBz7NDRk/QbfCUT7++/6obtff8f/6Ff8g==
    id="g15685">
 							<polygon
    class="st54"
-   points="1598.67,886.61 1599.09,885.25 1589.33,936.97 1588.91,938.33 "
+   points="1589.33,936.97 1588.91,938.33 1598.67,886.61 1599.09,885.25 "
    id="polygon15683"
    style="fill:#878787" />
 						</g>
@@ -8363,7 +8369,7 @@ Q87gyAi9Y+g+fOIcHB06dvzo6JBz7NDRk/QbfCUT7++/6obtff8f/6Ff8g==
    id="g15989">
 							<polygon
    class="st54"
-   points="1993.4,886.56 1993.82,885.2 1984.06,936.97 1983.64,938.33 "
+   points="1984.06,936.97 1983.64,938.33 1993.4,886.56 1993.82,885.2 "
    id="polygon15987"
    style="fill:#878787" />
 						</g>
@@ -9169,7 +9175,8 @@ Q87gyAi9Y+g+fOIcHB06dvzo6JBz7NDRk/QbfCUT7++/6obtff8f/6Ff8g==
    inkscape:groupmode="layer"
    id="layer8"
    inkscape:label="Tshirt"
-   style="display:inline"><g
+   style="display:inline"
+   transform="translate(-160.85,-97.769389)"><g
      id="Calque_18_-_copie"
      transform="translate(1320)">
 			<g
