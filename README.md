@@ -1,7 +1,7 @@
 # Tux-Collection
 <b>THE PROJECT</b><br>
 We want to build the database of all the customable Tux, which respects the current (2019) graphical charter in 2D, 3D and Motion Design.<br>
-<img src="./TUX BREIZH.svg">
+<img src="./png examples/TUX BREIZH1.png">
 <b>POGGO</b><br>
 Poggo is a communication agency, specialized in graphic design, based in Brittany (France) and created in 2018.<br>
 https://www.poggo.fr<br>
@@ -23,6 +23,12 @@ Poggo releases its 2D vector creations through .SVG INKSCAPE, its 3D creations t
 <b>HOW TO USE</b><br>
 In Inkscape, the layers are surimposed. Just choose the ones you want to display.<br>
 We are looking for Blender designers.<br>
+<b>TUTO</b><br>
+When using with inkscape, several layers are avaible. It is possible to enable/disable them to change how Tux is dressed.<br>
+Example of all layers available in Tux suit :<br>
+<img src="./tuto/Tutorial1.jpg">
+Example of Tux dressed in white suit :<br>
+<img src="./tuto/Tutorial2.jpg">
 <b>COMMUNITY</b><br>
 Every designer can submit a creation, Poggo will check that the requirements are respected.<br>
 For any question about graphic design, contact : mathilde@poggo.fr<br>
